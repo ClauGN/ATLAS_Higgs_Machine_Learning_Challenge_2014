@@ -8,3 +8,4 @@ matplotlib==3.11.2
 # Si se quiere usar Jupyter Notebook/Lab en el navegador, instalar también: pip install jupyter
 ipykernel==6.30.1
 tensorflow==2.21.0
+deap==1.4.0
